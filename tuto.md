@@ -43,3 +43,5 @@ library("writexl")
 ```
 
 DADA2 is yadayadayada 
+
+id need to upload pngs and put it in one folder and refer it with .\foldername\filename
